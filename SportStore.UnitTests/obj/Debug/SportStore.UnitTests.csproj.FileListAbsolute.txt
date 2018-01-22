@@ -1,0 +1,5 @@
+C:\Users\Админ\documents\visual studio 2012\Projects\SportsStore\SportStore.UnitTests\bin\Debug\SportStore.UnitTests.dll
+C:\Users\Админ\documents\visual studio 2012\Projects\SportsStore\SportStore.UnitTests\bin\Debug\SportStore.UnitTests.pdb
+C:\Users\Админ\documents\visual studio 2012\Projects\SportsStore\SportStore.UnitTests\obj\Debug\SportStore.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Админ\documents\visual studio 2012\Projects\SportsStore\SportStore.UnitTests\obj\Debug\SportStore.UnitTests.dll
+C:\Users\Админ\documents\visual studio 2012\Projects\SportsStore\SportStore.UnitTests\obj\Debug\SportStore.UnitTests.pdb
